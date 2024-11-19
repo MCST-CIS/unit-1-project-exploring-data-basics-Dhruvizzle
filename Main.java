@@ -1,3 +1,7 @@
+//Name - Dhruv Kothari
+//Date - 11/18/24
+//Program - Voting
+
 import java.io.*;
 import java.util.Scanner;
 
